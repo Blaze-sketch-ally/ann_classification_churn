@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+C:\proj2\NetworkSecurity\venv/
+
+# Ignore logs
+logs/
+
+# Ignore Jupyter checkpoints
+*.ipynb_checkpoints
+
+# Ignore dataset CSVs (optional if you don’t want to upload)
+*.csv
+
+# Ignore OneDrive junk files
+*.tmp
+*.log
+*.DS_Store
+Thumbs.db
