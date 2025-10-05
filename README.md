@@ -10,12 +10,19 @@ This system can help banks or service-based organizations identify customers at 
 
 # ⚙️ Technologies Used
 Programming Language:	Python
+
 Frontend / UI	:  Streamlit
+
 Machine Learning Framework: 	TensorFlow, Keras
+
 Data Processing: 	Pandas, NumPy
+
 Feature Engineering / Encoding: 	Scikit-learn (LabelEncoder, OneHotEncoder, StandardScaler)
+
 Model Type:	Artificial Neural Network (ANN)
+
 Model Deployment:	Streamlit web app
+
 Version Control:	GitHub
 
 # 🚀 How to Run Locally
@@ -24,4 +31,5 @@ Version Control:	GitHub
    git clone https://github.com/YourUsername/your-repo-name.git
    cd your-repo-name
 2.pip install -r requirements.txt
+
 3.streamlit run app.py
